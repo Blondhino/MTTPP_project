@@ -15,13 +15,13 @@ The test cases are following:
 * Check if the search box works correctly. In other words check does search
  engine works properly.
 
-* After getting some search results, another test was to check does sorting function works 
+* After getting some search results, another test was to check if sorting function works 
 how it should work.
 
 * Test number three is to check functionality of webshop chart. Test includes adding
 products into chart and removing them from chart.
 
-* The next test tests does click on login tab opening login page.
+* The next test tests if a click on the login button opens login form.
 * final test will check does click on "Contact Us" button opening Contact Us form.
 
 To use this project, clone this repository on your computer and open it with Intellij IDEA. 
